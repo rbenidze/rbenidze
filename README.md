@@ -1,9 +1,8 @@
 Hi there 👋, I'm Revaz Benidze
 
 I'm a B.Sc. Computer Science student at Constructor University in Bremen, Germany,
-graduating in December 2026, with a minor in Global Economics and Management. I'm
-looking for a research position or an engineering role in computer vision and 3D
-perception.
+graduating soon, with a minor in Global Economics and Management. I'm looking for a
+research position or an engineering role in computer vision and 3D perception.
 
 My bachelor thesis, built for Constructor University's autonomous racing team, is a
 camera-only stereo pipeline that reconstructs metric 3D racetrack boundaries for
