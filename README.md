@@ -1,10 +1,14 @@
 Hi there 👋, I'm Revaz Benidze
 
-I'm a Computer Science student at Constructor University, graduating in 2026, and
-I'm looking for a research position or an engineering role in computer vision and
-3D perception. My bachelor thesis built a camera-only stereo pipeline that
-reconstructs metric 3D racetrack boundaries, targeting the A2RL autonomous racing
-league at Yas Marina Circuit.
+I'm a B.Sc. Computer Science student at Constructor University in Bremen, Germany,
+graduating in December 2026, with a minor in Global Economics and Management. I'm
+looking for a research position or an engineering role in computer vision and 3D
+perception.
+
+My bachelor thesis, built for Constructor University's autonomous racing team, is a
+camera-only stereo pipeline that reconstructs metric 3D racetrack boundaries for
+downstream MPC path planning, targeting the A2RL autonomous racing league at Yas
+Marina Circuit.
 
 ## Current Focus
 
@@ -25,16 +29,36 @@ league at Yas Marina Circuit.
 
 ## LANGUAGES AND TOOLS
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Machine Learning & Computer Vision**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Data, Sensors & Web**
+
 ![ROS](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## CORE COMPETENCIES
 
@@ -42,16 +66,25 @@ league at Yas Marina Circuit.
 segmentation with RF-DETR, and geometric unprojection from disparity to metric
 3D coordinates.
 
-**Machine Learning:** Fine-tuning and evaluating deep models in PyTorch, with a
-focus on honest held-out evaluation, checkpoint selection by validation metric,
-and diagnosing why a model fails rather than only that it does.
+**Machine Learning:** Training and fine-tuning deep models in PyTorch, including
+CNN architectures such as ResNet, transfer learning, data augmentation and
+test-time augmentation. Focused on honest held-out evaluation, checkpoint
+selection by validation metric, and diagnosing why a model fails rather than only
+that it does.
 
 **Sensor Data Engineering:** Decoding and time-synchronising multi-sensor ROS 2
 recordings from MCAP, including camera and LiDAR streams publishing at different
-rates, and building ground truth from projected LiDAR.
+rates. LiDAR-to-camera projection with SE(3) extrinsics, pinhole intrinsics and
+distortion correction across ROS REP-103 and OpenCV frame conventions, and
+building ground truth from projected LiDAR point clouds.
 
 **Systems Programming:** Unix systems programming in C, including process
 control with fork/exec, pipelines, I/O redirection and signal handling.
+
+**Web & Databases:** Full-stack development in PHP and MySQL, with normalised
+indexed schemas, prepared statements against SQL injection, session-based auth
+with bcrypt-hashed credentials, and responsive front-ends in HTML5, CSS3 and
+JavaScript.
 
 **Engineering Practice:** Reproducible pipelines with recorded evaluation splits,
 configuration separated from code, and documentation that states limitations
@@ -95,3 +128,7 @@ A deep learning project classifying CIFAR-10 images across 10 categories,
 covering preprocessing, training and evaluation.
 
 **Technologies:** Python, PyTorch, Jupyter
+
+## LANGUAGES
+
+English (C1) · German (B1) · Georgian (native)
